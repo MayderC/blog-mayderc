@@ -1,0 +1,10 @@
+{
+  "title": "Blog MayderC",
+  "url": "https://mayder",
+  "logo": {
+    "light": "/logo-light.svg",
+    "dark": "/logo-dark.svg"
+  },
+  "github": "MayderC",
+  "twitter": "@mayder_codes"
+}
